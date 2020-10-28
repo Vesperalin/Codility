@@ -1,3 +1,3 @@
 ## My Codility challenge award links:
 
-* Palladium 2020 Challenge - Golden Award: https://app.codility.com/cert/view/cert8ARD3V-QN3G3WF4GA4KY6B7/
+* Palladium 2020 Challenge - Golden Award - written in Java 8: https://app.codility.com/cert/view/cert8ARD3V-QN3G3WF4GA4KY6B7/
